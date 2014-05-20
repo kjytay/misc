@@ -1,3 +1,0 @@
-This repository contains miscellaneous files which I've either created or found useful.
-
-- fundsupermart.py: Takes a list of mutual fund codes and pulls their prices from fundsupermart's website.
