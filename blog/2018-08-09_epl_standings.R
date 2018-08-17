@@ -1,5 +1,5 @@
 library(tidyverse)
-df <- read_csv("~/Documents/GitHub/misc/data/epl_standings.csv")
+df <- read_csv("../data/epl_standings.csv")
 
 # line plot of club rank by season
 ggplot(df, aes(x = Season, y = Rank, col = Club)) +
