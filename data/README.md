@@ -7,3 +7,7 @@ This folder contains data sources that I've come across on the web that might be
 2. `epl_standings.csv`: English Premier League standings for 10 seasons, from 2008-2017. Manually recorded from https://docs.google.com/spreadsheets/d/1R7Ags0jWT8p5tmXjxNsroInuo_V-qrDkNyejzQuhCc8/edit#gid=1992791076.  
 
 3. `nba_free_throws.csv`: NBA free throw data from 2006-2007 season to 2015-2016 season. Taken from Kaggle: https://www.kaggle.com/sebastianmantey/nba-free-throws/version/1.  
+
+### Links to other interesting datasets
+
+1. https://github.com/rudeboybert/JSE_OkCupid: Data on almost 60k OkCupid profiles from Jun 2012. More info [here](https://amstat.tandfonline.com/doi/abs/10.1080/10691898.2015.11889737#.W-XHGnpKhhE).
