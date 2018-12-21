@@ -2,6 +2,8 @@
 
 This folder contains data sources that I've come across on the web that might be fun to play around with.    
 
+1. `diabetes.data`: Data on 442 patients: 10 baseline variables and 6 blood serum measurements, with response of interest being a quantitative measure of disease progression one year after baseline. Dataset first used in [Efron et al. 2004](https://projecteuclid.org/euclid.aos/1083178935), frequently used to test supervised learning algorithms. Data taken from https://web.stanford.edu/~hastie/StatLearnSparsity_files/DATA/diabetes.html.
+
 1. `england.rda`: Match data from the top 4 tiers of England soccer games, from 1888-2017. Taken from https://github.com/jalapic/engsoccerdata.  
 
 1. `epl_standings.csv`: English Premier League standings for 10 seasons, from 2008-2017. Manually recorded from https://docs.google.com/spreadsheets/d/1R7Ags0jWT8p5tmXjxNsroInuo_V-qrDkNyejzQuhCc8/edit#gid=1992791076.  
