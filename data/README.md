@@ -16,6 +16,8 @@ This folder contains data sources that I've come across on the web that might be
 
 ### Links to other interesting datasets
 
-1. https://www.getthedata.com/open-units: An open dataset containing units of alcohol in branded drinks in a variety of standard servings. (I found out about this dataset through Jeremy Singer-Vine’s *Data Is Plural*.
+1. https://www.getthedata.com/open-units: An open dataset containing units of alcohol in branded drinks in a variety of standard servings. (I found out about this dataset through Jeremy Singer-Vine’s *Data Is Plural*.)
 
 1. https://github.com/rudeboybert/JSE_OkCupid: Data on almost 60k OkCupid profiles from Jun 2012. More info [here](https://amstat.tandfonline.com/doi/abs/10.1080/10691898.2015.11889737#.W-XHGnpKhhE).
+
+1. https://github.com/the-pudding/data/tree/master/dearabby: 20k questions written in to Dear Abby. Good for a text mining project. (I found out about this dataset through Jeremy Singer-Vine’s *Data Is Plural*.)
