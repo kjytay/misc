@@ -22,9 +22,9 @@ This folder contains data sources that I've come across on the web that might be
 
 1. https://github.com/the-pudding/data/tree/master/dearabby: 20k questions written in to Dear Abby. Good for a text mining project.^
 
-1. https://cran.r-project.org/web/packages/pcLasso/index.html:  (I found out about this dataset through Jeremy Singer-Vine’s *Data Is Plural*.)
-
 1. https://openjustice.doj.ca.gov/data: California's Department of Justice's data portal.
+
+1. https://deathpenaltyinfo.org/views-executions: Database of all executions in the US since 1976.^
 
 ^I found out about this dataset through Jeremy Singer-Vine's *Data Is Plural*.
 
