@@ -381,7 +381,7 @@ i.e.
 
 <p align="center">
 
-\(\log [\hat{p} / (1 - \hat{p})] = \hat{y} = \sum_{j=1}^p \hat{\alpha}_j X_j + \sum_{j = 1}^p \hat{\beta}_j \hat{f}_j(X_j),\)
+\(\log [\hat{p} / (1 - \hat{p})] = \hat{y} = \alpha_0 + \sum_{j=1}^p \alpha_j X_j + U_j \beta_j,\)
 
 </p>
 
