@@ -245,11 +245,10 @@ fit <- gamsel(x, y)
 `fit` is a class “gamsel” object which comes with a `plot` method. The
 `plot` method shows us the relationship our predicted response has with
 each input feature, i.e. it plots \(\alpha_j X_j + U_j \beta_j\) vs.
-\(X_j\) for each \(j\) (to change this). Besides passing `fit` to the
-`plot()` call, the user must also pass an input matrix `x`: this is used
-to determine the coordinate limits for the plot. It is recommended that
-the user simply pass in the same input matrix that the GAMSEL model was
-fit on.
+\(X_j\) for each \(j\). Besides passing `fit` to the `plot()` call, the
+user must also pass an input matrix `x`: this is used to determine the
+coordinate limits for the plot. It is recommended that the user simply
+pass in the same input matrix that the GAMSEL model was fit on.
 
 By default, `plot()` gives the fitted functions for the last value of
 the `lambda` key in `fit`, and gives plots for all the features. For
