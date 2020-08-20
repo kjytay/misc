@@ -22,12 +22,12 @@ col_vec <- c("red", "darkgreen", "blue", "black")
 
 x <- seq(0, x_max, length.out = x_max * 100 + 1)
 density_mat <- sapply(mean_vec, 
-                      function(mean_i) dlnorm(x, meanlog = mean_i, sdlog = 0))
+                      function(mean_i) dlnorm(x, meanlog = mean_i, sdlog = 1))
 
 plot(c(0, x_max), c(0, max(density_mat)), type = "n",
-     main = "Probability density function:\nvarying mean, SD = 0",
+     main = "Probability density function:\nvarying mean, SD = 1",
      xlab = "x", ylab = "PDF")
-for (i in 1:length(sd_vec)) {
+for (i in 1:length(col_vec)) {
   lines(x, density_mat[, i], col = col_vec[i], lwd = 2, lty = i)
 }
 legend("topright", legend = paste("mu =", mean_vec), col = col_vec, 
