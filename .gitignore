@@ -1,4 +1,6 @@
 ~*
 .*
-2020-12-22 dataset explorer/DatasetExplorer1/rsconnect*
+blog/2020-12-22 dataset explorer/DatasetExplorer1/rsconnect/
 !/.gitignore
+data/datatouille-nba-finals-and-mvps*
+data/nba-kaggle-wyattowalsh*
